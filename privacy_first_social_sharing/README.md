@@ -3,7 +3,7 @@ The plugin allows users to customize the appearance and placement of the buttons
 The code is divided into two parts: the main plugin file and the CSS file for styling.
 
 - Drop the `privacy_first_social_sharing` folder into your WordPress plugins folder.
-- Customize the appearance and placement of the buttons by modifying the styles.css file.
+- Customize the appearance and placement of the buttons by modifying the `styles.css` file.
 - Activate the plugin in your WordPress admin panel.
 - Now, the privacy-first social sharing buttons will be added to your blog posts.
 
