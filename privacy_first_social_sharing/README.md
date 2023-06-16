@@ -14,9 +14,9 @@ In many social sharing plugins, the buttons are rendered using external JavaScri
 
 In summary, the "privacy-first" aspect is achieved through:
 
-    1. Using simple hyperlinks instead of importing external scripts.
-    2. Not using any unnecessary cookies, user tracking, or analytics code.
-    3. Not loading any third-party assets that could collect user data.
-    4. Connections to social media platforms are only made when the user clicks the sharing button and not by just embedding the buttons.
+- Using simple hyperlinks instead of importing external scripts.
+- Not using any unnecessary cookies, user tracking, or analytics code.
+- Not loading any third-party assets that could collect user data.
+- Connections to social media platforms are only made when the user clicks the sharing button and not by just embedding the buttons.
 
 These measures help ensure better compliance with privacy laws and regulations by reducing or eliminating data collection without user consent.
