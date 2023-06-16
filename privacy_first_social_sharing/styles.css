@@ -1,0 +1,31 @@
+.pfss-social-sharing {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.pfss-social-sharing a {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    margin: 0 0.5rem;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 4px;
+    font-size: 0.9rem;
+}
+
+.pfss-twitter {
+    background-color: #1da1f2;
+}
+
+.pfss-facebook {
+    background-color: #1877f2;
+}
+
+.pfss-linkedin {
+    background-color: #0a66c2;
+}
+
+.pfss-social-sharing a:hover {
+    opacity: 0.8;
+}
